@@ -2,7 +2,7 @@
 
 Slides from C++ Corehard Autumn 2017 conference
 
-# Contents
+## Contents
 
 1. [Looking for vulnerabilities with the help of static code analysis](https://github.com/PatriotRossii/cppcorehard-autumn-2017/blob/master/slides/ss-81064764.pdf)
 2. [C++ in kernel mode](https://github.com/PatriotRossii/cppcorehard-autumn-2017/blob/master/slides/c-in-kernel-mode.pdf)
